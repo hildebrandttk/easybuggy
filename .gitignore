@@ -5,6 +5,8 @@ target/
 logs/
 server-work/
 *.swp
+*.iml
+*.idea
 *.log
 /.extract
 /.scannerwork
